@@ -57,7 +57,8 @@ def sop_group():
 
 def print_file():
     try:
-        with open('devices.txt', 'r') as devices_text:
+        file_name = input('\tName of the file you want to read: ')
+        with open(file_name, 'r') as devices_text:
             text = devices_text.read()
             print('The file content is:')
             print(text)
