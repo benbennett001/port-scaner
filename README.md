@@ -7,6 +7,6 @@
   3- scan open ports for a group of ips ('devices.txt')
   4- exit
 #
-# I'll change the options eventually to make it more functional and efficient, feel free to use it and improve it.. good luck
-#
+  I'll change the options eventually to make it more functional and efficient, feel free to use it and improve it.. good luck
+
 # Python version 3.10
