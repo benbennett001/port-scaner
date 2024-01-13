@@ -1,5 +1,5 @@
 # port-scanner
-  This project is a fun and interesting way to practice the  socket  library.
+  Simple terminal port-scaner.
 #
   This simple project contain a simple menu with 4 options
   1- read a file (list of ip) as was intended, but not necessarily. the file is called 'devices.txt'
